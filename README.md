@@ -25,9 +25,7 @@
 ## 版本更新
 
 - 2020.08.01
-
   修复2.15.0版无法阅读文章
-  
   修复了一些小问题
 
 ## **特别感谢**
@@ -35,7 +33,6 @@
 ###### 以下排名不分先后
 
 > [**lgpersonal**](https://github.com/lgpersonal/)
->
 > [**kessil**](https://github.com/kessil/AutoXue)
 >
 > [**ivanwhaf**](https://github.com/ivanwhaf/xxqg-helper)
