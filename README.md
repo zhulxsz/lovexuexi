@@ -15,7 +15,7 @@
 一款基于auto.js，安卓自动学习脚本，支持看文章视频、收藏分享评论、挑战答题、每日答题、每周答题。
 本项目仅供autojs交流学习，请勿用于商业
 
-[release下载](https://github.com/lolisaikou/LazyStudy/releases/)如何自动学习
+[release下载](https://github.com/james-bond-007/lovexuexi/releases/)如何自动学习
 
 ##  环境依赖
 
@@ -33,12 +33,8 @@
 ###### 以下排名不分先后
 
 > [**lgpersonal**](https://github.com/lgpersonal/)
->
 > [**kessil**](https://github.com/kessil/AutoXue)
->
 > [**ivanwhaf**](https://github.com/ivanwhaf/xxqg-helper)
->
 > [**studyhelperhelper**](https://github.com/studyhelperhelper/studyhelper)
->
 > [**lolisaikou**](https://github.com/lolisaikou)
 
