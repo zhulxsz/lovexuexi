@@ -28,17 +28,17 @@
   修复2.15.0版无法阅读文章
   修复了一些小问题
 
-  ## **特别感谢**
+## **特别感谢**
 
-  ###### 以下排名不分先后
+###### 以下排名不分先后
 
-  > [**lgpersonal**](https://github.com/lgpersonal/)
-  
-  > [**kessil**](https://github.com/kessil/AutoXue)
-  
-  > [**ivanwhaf**](https://github.com/ivanwhaf/xxqg-helper)
-  
-  > [**studyhelperhelper**](https://github.com/studyhelperhelper/studyhelper)
-  >
-  > [**lolisaikou**](https://github.com/lolisaikou)
+> [**lgpersonal**](https://github.com/lgpersonal/)
+>
+> [**kessil**](https://github.com/kessil/AutoXue)
+>
+> [**ivanwhaf**](https://github.com/ivanwhaf/xxqg-helper)
+>
+> [**studyhelperhelper**](https://github.com/studyhelperhelper/studyhelper)
+>
+> [**lolisaikou**](https://github.com/lolisaikou)
 
