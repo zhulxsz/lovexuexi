@@ -33,12 +33,12 @@
 ###### 以下排名不分先后
 
 > [**lgpersonal**](https://github.com/lgpersonal/)
-
+>
 > [**kessil**](https://github.com/kessil/AutoXue)
-
+>
 > [**ivanwhaf**](https://github.com/ivanwhaf/xxqg-helper)
-
+>
 > [**studyhelperhelper**](https://github.com/studyhelperhelper/studyhelper)
-
+>
 > [**lolisaikou**](https://github.com/lolisaikou)
 
