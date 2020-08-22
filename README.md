@@ -1,6 +1,6 @@
 # 公告
 
-修改自[lolisaikou](https://github.com/lolisaikou)/**[LazyStudy](https://github.com/lolisaikou/LazyStudy)**自动学习，为本人auto.js编程习作，只供个人**学习Auto.js**使用，不得**传播**和用于**违法或商业用途**，否则造成的一切**后果自负！**
+修改自 **[lolisaikou](https://github.com/lolisaikou) / [LazyStudy](https://github.com/lolisaikou/LazyStudy)** 自动学习，为本人auto.js编程习作，只供个人**学习Auto.js**使用，不得**传播**和用于**违法或商业用途**，否则造成的一切**后果自负！**
 
 ## 使用说明
 
@@ -25,8 +25,13 @@
 ## 版本更新
 
 - 2020.08.01
-修复2.15.0版无法阅读文章
-修复了一些小问题
+
+修复2.15.0版无法阅读文章;
+修复了一些小问题。
+- 2020.08.22
+
+适应学习强国2.15.1版最新积分规则;
+修正有时无法获取文章标题错误。
 
 ## **特别感谢**
 
